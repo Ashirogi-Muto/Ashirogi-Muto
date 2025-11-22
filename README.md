@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 # 💫 About Me:
-I’m Tanishaq — an aspiring AI/ML engineer and backend developer who enjoys building production-grade systems. I learn by doing: APIs, cybersecurity tooling, automation, and DSA in C++. I like calm, dark environments, clean engineering, and pushing real work to GitHub.<br><br>
+I’m Tanishaq — an aspiring AI/ML engineer and backend developer who enjoys building production-grade systems. I learn by doing: APIs, cybersecurity tooling, automation, and DSA in C++ & Java. I like calm, dark environments, clean engineering, and pushing real work to GitHub.<br><br>
 
 ![What I Do](https://img.shields.io/badge/What%20I%20Do-FFB86C?style=flat&labelColor=000000&color=FFB86C)
 
@@ -27,6 +27,7 @@ I iterate fast, experiment often, and prefer building real systems over theory. 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
