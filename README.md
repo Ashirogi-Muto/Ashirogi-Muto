@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-# 💫 About Me:
+# About Me:
 I’m Tanishaq — an aspiring AI/ML engineer and backend developer who enjoys building production-grade systems. I learn by doing: APIs, cybersecurity tooling, automation, and DSA in C++ & Java. I like calm, dark environments, clean engineering, and pushing real work to GitHub.<br><br>
 
 ![What I Do](https://img.shields.io/badge/What%20I%20Do-FFB86C?style=flat&labelColor=000000&color=FFB86C)
@@ -22,7 +22,7 @@ I iterate fast, experiment often, and prefer building real systems over theory. 
 
 ---
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -42,12 +42,9 @@ I iterate fast, experiment often, and prefer building real systems over theory. 
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashirogi-Muto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashirogi-Muto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirogi-Muto&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashirogi-Muto&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 ---
